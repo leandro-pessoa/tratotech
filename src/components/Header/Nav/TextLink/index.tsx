@@ -12,6 +12,7 @@ const TextLink = ({ children }: TextLinkProps) => {
             to='/'
             activeStyles='current-text-link'
             defaultStyles='text-link'
+            label={children}
         >
             {children}
         </LinkNav>
