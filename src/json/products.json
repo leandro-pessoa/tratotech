@@ -1,0 +1,122 @@
+[
+    {
+        "id": "82081b29-0d33-4251-80da-cda3fbd613d8",
+        "name": "Câmera fotográfica",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "dispositivos",
+        "price": 2599.99,
+        "image": "/cards/camera.png"
+    },
+    {
+        "id": "662cff39-768e-470d-87a3-c00d1727b8c5",
+        "name": "Controle de Playstation 4",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "jogos",
+        "price": 299.99,
+        "image": "/cards/controle.png"
+    },
+    {
+        "id": "36514f46-2986-45cf-b784-48e03773e74a",
+        "name": "Drone",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "dispositivos",
+        "price": 4559.99,
+        "image": "/cards/drone.png"
+    },
+    {
+        "id": "0880a609-c950-4fff-90f4-83a177ab633a",
+        "name": "Fones Bluetooth",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "som-e-imagem",
+        "price": 879.99,
+        "image": "/cards/fones-bluetooth.png"
+    },
+    {
+        "id": "31ebde1c-d9cf-4adb-8501-249d69ed0403",
+        "name": "Headfone",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "som-e-imagem",
+        "price": 1299.99,
+        "image": "/cards/headfone.png"
+    },
+    {
+        "id": "30f526ee-8b2c-4e04-b3d0-e4d9f864da20",
+        "name": "Luminária RGB",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "dispositivos",
+        "price": 349.99,
+        "image": "/cards/iluminacao-rgb.png"
+    },
+    {
+        "id": "2a8be498-cfbe-4d06-a0a7-5c60368e50e8",
+        "name": "Iphone 8",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "dispositivos",
+        "price": 2499.99,
+        "image": "/cards/iphone.png"
+    },
+    {
+        "id": "1ff20ad9-e690-4f41-a682-72004542d7d5",
+        "name": "Lente de Câmera",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "dispositivos",
+        "price": 999.99,
+        "image": "/cards/lente-camera.png"
+    },
+    {
+        "id": "41b82b28-741c-4e97-ada0-7164c4356534",
+        "name": "Mouse",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "escritorio",
+        "price": 59.99,
+        "image": "/cards/mouse.png"
+    },
+    {
+        "id": "320c40e7-b1df-4f77-9dc6-80319c0f892a",
+        "name": "SmartWatch",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "dispositivos",
+        "price": 1259.99,
+        "image": "/cards/smartwatch.png"
+    },
+    {
+        "id": "60c48ab8-0d13-4da3-b0cf-4dd2ff1458d5",
+        "name": "Tablet",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "dispositivos",
+        "price": 3399.99,
+        "image": "/cards/tablet.png"
+    },
+    {
+        "id": "36efe184-2474-4892-b0c1-bb27d2c128b7",
+        "name": "Teclado Mecânico",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "escritorio",
+        "price": 459.99,
+        "image": "/cards/teclado.png"
+    },
+    {
+        "id": "570c03fd-f694-41b6-a3b7-cfdd02fd0b7d",
+        "name": "Central multimídia",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "automotivo",
+        "price": 559.99,
+        "image": "/cards/central-multimidia.png"
+    },
+    {
+        "id": "21262898-ff93-484a-b031-0e6ab7c6f175",
+        "name": "Reparo de computador",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "prestacao-de-servicos",
+        "price": 199.99,
+        "image": "/cards/reparo.png"
+    },
+    {
+        "id": "c2f981bb-94a2-40a7-9b9f-1c02c2c0657a",
+        "name": "Montagem de computador",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad facilis amet, optio nobis tempora vero omnis, voluptatum non commodi architecto deserunt, culpa molestias.",
+        "category": "prestacao-de-servicos",
+        "price": 399.99,
+        "image": "/cards/montagem.png"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Dispositivos",
+        "url": "dispositivos",
+        "homeMobileImg": "/mobile/categories/dispositivos.png",
+        "homeTabletImg": "/tablet/categories/dispositivos.png",
+        "homeDesktopImg": "/desktop/categories/dispositivos.png",
+        "pageMobileImg": "/mobile/pages/pagina-dispositivos.png",
+        "pageTabletImg": "/tablet/pages/pagina-dispositivos.png",
+        "pageDesktopImg": "/desktop/pages/pagina-dispositivos.png",
+        "imgAlt": "Imagem de um notebook."
+    },
+    {
+        "title": "Automotivo",
+        "url": "automotivo",
+        "homeMobileImg": "/mobile/categories/automotivo.png",
+        "homeTabletImg": "/tablet/categories/automotivo.png",
+        "homeDesktopImg": "/desktop/categories/automotivo.png",
+        "pageMobileImg": "/mobile/pages/pagina-automotivo.webp",
+        "pageTabletImg": "/tablet/pages/pagina-automotivo.webp",
+        "pageDesktopImg": "/desktop/pages/pagina-automotivo.webp",
+        "imgAlt": "Imagem do interior de um veículo."
+    },
+    {
+        "title": "Jogos",
+        "url": "jogos",
+        "homeMobileImg": "/mobile/categories/jogos.png",
+        "homeTabletImg": "/tablet/categories/jogos.png",
+        "homeDesktopImg": "/desktop/categories/jogos.png",
+        "pageMobileImg": "/mobile/pages/pagina-jogos.webp",
+        "pageTabletImg": "/tablet/pages/pagina-jogos.webp",
+        "pageDesktopImg": "/desktop/pages/pagina-jogos.webp",
+        "imgAlt": "Imagem de um Game Boy color amarelo."
+    },
+    {
+        "title": "Escritório",
+        "url": "escritorio",
+        "homeMobileImg": "/mobile/categories/escritorio.png",
+        "homeTabletImg": "/tablet/categories/escritorio.png",
+        "homeDesktopImg": "/desktop/categories/escritorio.png",
+        "pageMobileImg": "/mobile/pages/pagina-escritorio.webp",
+        "pageTabletImg": "/tablet/pages/pagina-escritorio.webp",
+        "pageDesktopImg": "/desktop/pages/pagina-escritorio.webp",
+        "imgAlt": "Imagem de uma mesa de escritório com uma cadeira branca."
+    },
+    {
+        "title": "Som e Imagem",
+        "url": "som-e-imagem",
+        "homeMobileImg": "/mobile/categories/som-e-imagem.png",
+        "homeTabletImg": "/tablet/categories/som-e-imagem.png",
+        "homeDesktopImg": "/desktop/categories/som-e-imagem.png",
+        "pageMobileImg": "/mobile/pages/pagina-som-e-imagem.webp",
+        "pageTabletImg": "/tablet/pages/pagina-som-e-imagem.webp",
+        "pageDesktopImg": "/desktop/pages/pagina-som-e-imagem.webp",
+        "imgAlt": "Imagem de um headfone vermelho."
+    },
+    {
+        "title": "Prestação de Serviços",
+        "url": "prestacao-de-servicos",
+        "homeMobileImg": "/mobile/categories/prestacao-de-servicos.png",
+        "homeTabletImg": "/tablet/categories/prestacao-de-servicos.png",
+        "homeDesktopImg": "/desktop/categories/prestacao-de-servicos.png",
+        "pageMobileImg": "/mobile/pages/pagina-prestacao-de-servicos.webp",
+        "pageTabletImg": "/tablet/pages/pagina-prestacao-de-servicos.webp",
+        "pageDesktopImg": "/desktop/pages/pagina-prestacao-de-servicos.webp",
+        "imgAlt": "Imagem de uma mulher programando."
+    }
+]

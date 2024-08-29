@@ -1,0 +1,19 @@
+@tailwind components;
+
+@layer components {
+    .li-text-link {
+        @apply hidden sm:flex text-gray-100 font-light justify-center items-center
+    }
+
+    .text-link {
+        @apply hover:font-semibold transition-all
+    }
+
+    .current-text-link {
+        @apply underline font-semibold
+    }
+
+    .current-icon {
+        @apply opacity-30
+    }
+}

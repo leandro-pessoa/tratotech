@@ -1,0 +1,7 @@
+@tailwind components;
+
+@layer components {
+    .vertical-li-text-link {
+        @apply bg-tech-400 dark:bg-tech-500 py-2 w-[100%] text-center shadow-md;
+    }
+}

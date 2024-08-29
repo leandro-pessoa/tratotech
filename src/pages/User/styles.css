@@ -1,0 +1,11 @@
+@tailwind components;
+
+@layer components {
+    .sub-text {
+        @apply block text-sm lg:text-lg
+    }
+
+    .link {
+        @apply text-tech-500 dark:text-tech-300 lg:text-lg active:underline
+    }
+}

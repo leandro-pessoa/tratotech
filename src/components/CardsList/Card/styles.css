@@ -1,0 +1,11 @@
+@tailwind components;
+
+@layer components {
+    .minus-add {
+        @apply bg-tech-500 rounded-full p-1
+    }
+
+    .favorite-cart {
+        @apply text-sm flex flex-col items-center
+    }
+}
